@@ -1,0 +1,24 @@
+_repo: A-Brief-History-of-the-United-States_6434
+creator:
+  author:
+    agent_name: Steele, Joel Dorman
+    alias: Steele, J. Dorman (Joel Dorman)
+    birthdate: 1836
+    deathdate: 1886
+    gutenberg_agent_id: '2288'
+    url: http://www.gutenberg.org/2009/agents/2288
+description: ''
+gutenberg_bookshelf: United States
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6434'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History'
+- !lcc 'E151'
+title: A Brief History of the United States
+url: http://www.gutenberg.org/ebooks/6434
