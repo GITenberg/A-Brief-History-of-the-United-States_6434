@@ -1,4 +1,8 @@
 _repo: A-Brief-History-of-the-United-States_6434
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Steele, Joel Dorman
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '2288'
     url: http://www.gutenberg.org/2009/agents/2288
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6434#A-Brief-History-of-the-United-States
 gutenberg_bookshelf: United States
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
